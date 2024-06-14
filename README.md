@@ -33,3 +33,9 @@
 >Use a Streamlit expander to show relevant document chunks for transparency.
 
 **Outcome**: The application successfully allows users to ask questions based on the content of a set of PDF documents. It provides accurate, context-based answers and displays relevant document chunks, enhancing the user's understanding of how the answer was derived. The use of Streamlit ensures a user-friendly interface, while the integration of various libraries enables efficient document processing, embedding, and retrieval.
+
+**ScreenShots:**
+![1](https://github.com/deependra-eng/PDF_Chat_app_LLM/assets/56891041/f7775b6a-f4ce-4938-9b85-18c5e04dca38)
+![2](https://github.com/deependra-eng/PDF_Chat_app_LLM/assets/56891041/a0f541ab-20c4-48e2-939e-fd075e820913)
+
+
